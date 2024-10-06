@@ -1,0 +1,6 @@
+@ClimateNetwork.Api_HostAddress = http://localhost:5291
+
+GET {{ClimateNetwork.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
